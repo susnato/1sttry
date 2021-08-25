@@ -6,7 +6,6 @@
  - #### I regularly participate in Kaggle Competitions if you need a teammate you can participate with me!  
  - #### Don't forget to checkout my Github repositories and feel free to make an issue, submit a Pull Request and ask for feature requests I will try my best to fulfil them!
 
-
 ## 📫 How to reach me: 
 <p align="left">
   <a href="mailto:susnatodhar10@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail" width="50" height="50"></a>
