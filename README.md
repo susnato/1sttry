@@ -7,8 +7,8 @@
   - Email : <a href = "susnatodhar10@gmail.com? subject = Contact&body = Message">susnatodhar10@gmail.com.</a>
 </p>
 
-- Email: <a href = "zhou.pe@wcs-g.com? subject = Contact&body = Message">
-Zhou.pe@wcs-g.com.
+- Email: <a href = "susnatodhar10@gmail.com? subject = Contact&body = Message">
+susnatodhar10@gmail.com.
 </a>
 
 
