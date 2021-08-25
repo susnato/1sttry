@@ -4,7 +4,7 @@
 
 #### 📫 How to reach me: 
 <p align="center">
-  - Email: <a href = "susnatodhar10@gmail.com? subject = Contact&body = Message">
+  - Email: <a href = "mailto:susnatodhar10@gmail.com">
   susnatodhar10@gmail.com
   </a>
 </p>
