@@ -4,7 +4,7 @@
 
 #### 📫 How to reach me: 
 <p align="center">
-  <a href = "susnatodhar10@gmail.com? subject = Contact&body = Message"> <img src = "https://img.icons8.com/color/gmail"> </a>
+  <a href = "susnatodhar10@gmail.com? subject = Contact&body = Message"> susnatodhar10@gmail.com <img src = "https://img.icons8.com/color/gmail"> </a>
 </p>
 
 
