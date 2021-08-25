@@ -2,9 +2,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=susnato">
 
 ### About Me:
- - #####  My name is Susnato Dhar and I love to code in Python and love ML!
- - ##### I regularly participate in Kaggle Competitions if you need a teammate you can participate with me!  
- - ##### Don't forget to checkout my Github repositories and feel free to make an issue, submit a Pull Request and ask for feature requests I will try my best to fulfil them!
+ - ####  My name is Susnato Dhar and I love to code in Python and love ML!
+ - #### I regularly participate in Kaggle Competitions if you need a teammate you can participate with me!  
+ - #### Don't forget to checkout my Github repositories and feel free to make an issue, submit a Pull Request and ask for feature requests I will try my best to fulfil them!
 
 ### 📫 How to reach me: 
 <p align="left">
