@@ -1,4 +1,4 @@
-### Hey there! I'm Susnato.
+## <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" height="40"> Hey there! I'm Susnato,
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=susnato">
 
 ## About Me:
